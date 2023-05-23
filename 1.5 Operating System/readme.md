@@ -1,55 +1,44 @@
 # Operating system
 
-## 1. Binary Units 
-
-- [ ] Executable Files
-- [ ] Static Libraries
-- [ ] Dynamic Libraries
-
-
-## 2. Memory Management
-
-- [ ] Memory Allocation
-- [ ] Memory Abstraction
-- [ ] Memory management unit
-- [ ] Memory Protection
-- [ ] Virtual Memory
-
-## 3. Threads and Concurrency
+## 1. Threads and Concurrency
 
 - [ ] Processes
 - [ ] Threads
 - [ ] Core and Processor
 - [ ] Scheduling
-- [ ] Errors 
+- [ ] Errors
 - [ ] Concurrency
 - [ ] Event Handling
+- [ ] Htop and Top
+
+## 2. Storage and Memory
+
+- [ ] Directory Management
+- [ ] Disk Management
+- [ ] Virtual Memory
+- [ ] Swap Memory
+
+## 3. Package Management
+
+- [ ] Package Management
+- [ ] Package Manager
+- [ ] Package Repository
+- [ ] Package Installation
+- [ ] Package Update
+- [ ] Package Upgrade
+- [ ] Package Removal
 
 ## 4. Networking
 
 - [ ] Network Protocols
-- [ ] Network Layers
+- [ ] OSI Model Network Layers
 - [ ] Network Topologies
 - [ ] Network Devices
-- [ ] Network Security
 
+## 5. Containers
 
-## 5. File System
-
-- [ ] File System Structure
-- [ ] File System Types
-- [ ] File System Operations
-
-
-## 6. Virtualization
-
-- [ ] Virtualization
 - [ ] Containerization
-
-## 7. Security
-
-- [ ] Security
-- [ ] Encryption
-- [ ] Authentication
-- [ ] Authorization
-
+- [ ] Docker Images
+- [ ] Docker Containers
+- [ ] Docker Hub
+- [ ] Docker Compose

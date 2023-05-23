@@ -6,8 +6,10 @@
 - [ ] Linked Lists
 - [ ] Queues
 - [ ] Stacks
+- [ ] Map
 - [ ] Trees
 - [ ] Graphs
+- [ ] Red-Black Trees
 
 ## Tasks for Data Structures
 

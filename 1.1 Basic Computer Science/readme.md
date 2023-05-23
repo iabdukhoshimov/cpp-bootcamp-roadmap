@@ -10,7 +10,6 @@
 - [ ] Computer Network
 - [ ] Computer Security
 
-
 ## 2. IDE and Editor
 
 - [ ] IDE
@@ -20,16 +19,6 @@
 - [ ] Debugging
 - [ ] Compiler and Interpreter
 - [ ] Build System
-
-## 3. Code Quality
-
-- [ ] Code Style
-- [ ] Code Readability
-- [ ] Principles of Development
-- [ ] Code Review
-- [ ] Code Refactoring
-- [ ] Testing
-- [ ] Documentation
 
 ## 4. Command Line
 

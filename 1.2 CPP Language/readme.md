@@ -54,10 +54,11 @@
 - [ ] References
 - [ ] Pointers vs References
 - [ ] Pointers to Objects
-- [ ] Smart pointer in C++11
+- [ ] Shared Pointers
 - [ ] Memory Model
 - [ ] Raw Memory Management
 - [ ] Memory Allocation
+- [ ] Stack and Heap Memory
 
 ## Tasks for Pointers and References
 
@@ -79,7 +80,7 @@
 - [ ] Write a program to find the maximum of three numbers using a function defined in a separate file.
 - [ ] Write a program to find the factorial of a number using a function defined in a separate file.
 
-## 6. Object Oriented Programming
+## 6. Object Oriented Programming [Ref]
 
 - [ ] Classes and Objects
 - [ ] Constructors
@@ -105,6 +106,7 @@
 - [ ] Exception Specifications
 - [ ] Exception Classes
 - [ ] Standard Exceptions
+- [ ] Try Catch Block
 
 ## Tasks for Exception Handling
 
@@ -119,14 +121,15 @@
 - [ ] Function Objects
 - [ ] STL Utilities
 
-## 9. Idioms
+## 9. Idioms [Ref]
 
 - [ ] RAII
 - [ ] Pimpl
 - [ ] Rule of Three
-- [] Copy and Swap
+- [ ] Copy and Swap
+- [ ] Garbage Collector in C++
 
-## 10. Advanced Concepts
+## 10. Advanced Concepts [Ref]
 
 - [ ] Move Semantics
 - [ ] Perfect Forwarding
@@ -134,3 +137,13 @@
 - [ ] CRTP
 - [ ] SFINAE
 - [ ] Curiously Recurring Template Pattern
+
+## 11. Code Quality
+
+- [ ] Code Style
+- [ ] Code Readability
+- [ ] Principles of Development
+- [ ] Code Review
+- [ ] Code Refactoring
+- [ ] Testing
+- [ ] Documentation

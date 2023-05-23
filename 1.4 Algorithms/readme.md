@@ -2,12 +2,15 @@
 
 ## 1. Algorithms
 
+- [ ] Theory of Computation (history)
+- [ ] Complexity Theory (history)
+- [ ] Big O Notation
+- [ ] Memory Consumption
+- [ ] Greedy Algorithms
 - [ ] Searching
 - [ ] Sorting
 - [ ] Hashing
 - [ ] Dynamic Programming
-- [ ] Complexity Theory
-- [ ] Memory Consumption
 
 ## Tasks for Algorithms
 
