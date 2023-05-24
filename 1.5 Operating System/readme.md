@@ -40,5 +40,12 @@
 - [ ] Containerization
 - [ ] Docker Images
 - [ ] Docker Containers
+- [ ] Docker Volumes
+- [ ] Docker Repositories
+- [ ] Docker Networking
 - [ ] Docker Hub
 - [ ] Docker Compose
+
+## Tasks for Operating System 
+
+

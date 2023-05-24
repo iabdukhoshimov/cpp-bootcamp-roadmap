@@ -11,6 +11,7 @@
 - [ ] Sorting
 - [ ] Hashing
 - [ ] Dynamic Programming
+- [ ] Greedy Algorithms 
 
 ## Tasks for Algorithms
 

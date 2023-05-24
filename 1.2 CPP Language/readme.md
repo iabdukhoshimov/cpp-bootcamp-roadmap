@@ -145,5 +145,6 @@
 - [ ] Principles of Development
 - [ ] Code Review
 - [ ] Code Refactoring
+- [ ] Patterns
 - [ ] Testing
 - [ ] Documentation
