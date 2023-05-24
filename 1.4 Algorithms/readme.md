@@ -11,7 +11,7 @@
 - [ ] Sorting
 - [ ] Hashing
 - [ ] Dynamic Programming
-- [ ] Greedy Algorithms 
+- [ ] Greedy Algorithms
 
 ## Tasks for Algorithms
 
@@ -22,5 +22,5 @@
 - [ ] Compare the space complexity of Merge Sort with other sorting algorithms.
 - [ ] Investigate the worst-case time complexity of the Quick Sort algorithm and identify scenarios where it occurs.
 - [ ] Write a function to choose a randomized pivot for the Quick Sort algorithm to improve its efficiency.
-- [ ] Write a function to verify the integrity of a file by comparing its MD5 hash with a provided hash value
-- [ ]
+- [ ] Write a function to verify the integrity of a file by comparing its MD5 hash with a provided hash value.
+- [ ] Write a program to implement the Breadth First Search algorithm.

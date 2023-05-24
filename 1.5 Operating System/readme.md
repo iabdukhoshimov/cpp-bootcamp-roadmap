@@ -17,7 +17,6 @@
 
 - [ ] Interprocess Communication: The operating system facilitates communication and data sharing between different processes running on the system.
 
-
 ## 2. Storage and Memory
 
 - [ ] Directory Management
@@ -62,7 +61,6 @@
 - [ ] Draw a diagram of a bus topology and label the key components.
 - [ ] Create a table comparing the features and functions of three different network devices.
 
-
 ## 5. Containers
 
 - [ ] Containerization
@@ -81,10 +79,3 @@
 - [ ] Create a docker-compose file to run both the containers together.
 
 - [ ] Create a docker container inside a docker container.
-
-
-
-
-
-
-
