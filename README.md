@@ -54,3 +54,27 @@ The roadmap is designed to help individuals interested in becoming a contemporar
 * Additions
   * [Operating Systems Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/26QPDBe-NB8)
   * [Operating Systems Tutorial](https://youtu.be/vBURTt97EkA)
+
+
+### How to use this Roadmap ?
+
+1. Fork this repository
+
+2. There are check boxes for each folder and subfolder. Use them to check the items that you have already learned.
+
+3. You can use `README.md` to track your progress.
+
+4. If you want to add more resources, please create an issue or open a pull request.
+
+### Contribution
+
+1. Fork the repository
+
+2. Add learning content
+
+3. Create a pull request
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
