@@ -1,5 +1,7 @@
 # C++ Bootcamp Roadmap
 
+The roadmap is designed to help individuals interested in becoming a contemporary back-end developer, with a specific focus on Cpp and System architecture. It provides a comprehensive guide that starts from fundamental concepts and progresses to advanced technologies. It includes accessible sources of information, practical tasks related to the topics, and projects that provide a holistic understanding of the entire backend development process in modern projects.
+
 ## <a href="https://github.com/iabdukhoshimov/cpp-bootcamp-roadmap/blob/main/1.1%20Basic%20Computer%20Science/readme.md">1.1 Basics of CS(Computer Science)</a>
 
 * Sources
