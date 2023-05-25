@@ -2,8 +2,8 @@
 
 ## 1. Basic Operators
 
-- [x] Arithmetic Operators
-- [x] Relational Operators
+- [ ] Arithmetic Operators
+- [ ] Relational Operators
 - [ ] Logical Operators
 - [ ] Bitwise Operators
 - [ ] Assignment Operators
