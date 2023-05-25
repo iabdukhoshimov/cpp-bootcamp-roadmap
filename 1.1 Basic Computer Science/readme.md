@@ -22,6 +22,7 @@
 
 ## 4. Command Line
 
+- [ ] Shell
 - [ ] Bash Scripting
 - [ ] Basic Commands
 - [ ] File System
@@ -31,6 +32,8 @@
 
 ## Tasks for Command Line
 
+- [ ] [1]:https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true"Write a bash script that prints the string "HELLO, WORLD""
+- [ ] Write a bash script that prints the string "HELLO, WORLD"
 - [ ] Write a bash script to print all the files in a directory recursively.
 - [ ] Write a bash script to print all the files in a directory recursively with a specific extension.
 - [ ] Write a bash script to print all the files in a directory recursively with a specific extension and a specific word in the file.
