@@ -2,8 +2,8 @@
 
 ## 1. Basic Operators
 
-- [ ] Arithmetic Operators
-- [ ] Relational Operators
+- [x] Arithmetic Operators
+- [x] Relational Operators
 - [ ] Logical Operators
 - [ ] Bitwise Operators
 - [ ] Assignment Operators
@@ -94,12 +94,6 @@
 
 ## Tasks for Object Oriented Programming
 
-- [ ] Write a program to find the sum of two numbers using a class.
-- [ ] Write a program to find the maximum of two numbers using a class.
-- [ ] Write a program to find the maximum of three numbers using a class.
-- [ ] Write a program to find the factorial of a number using a class.
-- [ ] Write a program to find the sum of two numbers using a class defined in a separate file.
-
 ## 7. Exception Handling
 
 - [ ] Exception Handling
@@ -109,9 +103,6 @@
 - [ ] Try Catch Block
 
 ## Tasks for Exception Handling
-
-- [ ] Write a program to find the sum of two numbers using a function. Throw an exception if the sum is greater than 100.
-- [ ] Write a program to find the maximum of two numbers using a function. Throw an exception if the sum is greater than 100.
 
 ## 8. Standard Template Library
 
