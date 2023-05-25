@@ -60,7 +60,7 @@ The roadmap is designed to help individuals interested in becoming a contemporar
 
 1. Fork this repository
 
-2. There are check boxes for each folder and subfolder. Use them to check the items that you have already learned.
+2. There are check boxes for each folder and subfolder and tasks for each topic. Use them to check the items that you have already learned.
 
 3. You can use `README.md` to track your progress.
 
