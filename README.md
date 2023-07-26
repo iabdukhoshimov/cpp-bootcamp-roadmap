@@ -4,6 +4,7 @@ The roadmap is designed to help individuals interested in becoming a contemporar
 
 ## <a href="https://github.com/iabdukhoshimov/cpp-bootcamp-roadmap/blob/main/1.1%20Basic%20Computer%20Science/readme.md">1.1 Basics of CS(Computer Science)</a>
 
+
 * Sources
   * [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
   * [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
